@@ -18,19 +18,27 @@ body {
   font-size: 60px;
 }
 
-.buttons-area {
-  background-color: blue;
-  color: blue;
-  padding: 5px 5px;
-}
-
-.form label {
-  color: white;
+.form {
+  margin-top: 65px;
 }
 
 .new-gif {
   padding: 10px 10px;
   font-size: 20px;
+  border: 1px solid black;
+  margin-left: 10px;
+  border-radius: 10px;
+  background-color: #6d4cc9;
+  color: gray;
+  cursor: default;
+}
+
+.new-gif:hover {
+  background-color: white;
+}
+
+.form {
+  color: white;
 }
 
 .main-area img{
@@ -66,9 +74,6 @@ footer {
 }
 
 @media screen and (max-width: 980px) {
-   body {
-    background: #30c14f;
-   }
     .container {
         width: 970px;
     }
@@ -78,16 +83,10 @@ footer {
    .container {
     width: 768px;
    }
-   body {
-    background: #30c14f;
-   }
 }
 
 @media screen and (max-width: 640px) {
    .container {
     width: 768px;
-   }
-   body {
-    background: #30c14f;
    }
 }

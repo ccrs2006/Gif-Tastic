@@ -1,7 +1,7 @@
 //load js on html load
 $(document).ready(function () { 
 
-//GLOBAL VARIABLES=====================================================
+//GLOBAL VARIABLES=========================================================
 var categories = ["dreaming", "falling", "finger guns", "fighting", "smilling"];
 //END GLOBAL VARIABLES=====================================================
 
