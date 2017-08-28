@@ -1,67 +1,89 @@
+//load js on html load
+$(document).ready(function () { 
 
-//GLOBAL VARIABLES
+//GLOBAL VARIABLES=====================================================
 var categories = ["dreaming", "falling", "finger guns", "fighting", "smilling"];
+//END GLOBAL VARIABLES=====================================================
 
-      function alertgiphyName() {
-        console.log($(this).data("name"));
-      }
 
-      function renderButtons() {
+//CREATE BUTTONS----------------------------------------------------------------------
+  function renderButtons() {
+    $(".buttons-area").empty();
 
-        $(".buttons-area").empty();
+    for (var i=0; i<categories.length; i++) {
+      var a = $("<button>");
+          a.addClass("new-gif");
+          a.attr("data-name", categories[i]);
+          a.text(categories[i]);
+        $(".buttons-area").append(a);
+    }
+   }
+    renderButtons();
 
-        for (var i = 0; i < categories.length; i++) {
-
-          var a = $("<button>");
-
-              a.addClass("new-gif");
-              a.attr("data-name", categories[i]);
-              a.text(categories[i]);
-
-          $(".buttons-area").append(a);
-        }
-       }
-
-      $(".btn-primary").on("click", function(event) {
-        event.preventDefault();
-
+    $(".btn-primary").on("click", function(){
+        // event.preventDefault();
+         if ($(".form-control").val().trim() == ""){
+         alert("Type something on the box.");
+         } else {
         var addedGiphy = $(".form-control").val().trim();
-
         categories.push(addedGiphy);
-
+        $(".form-control").val("");
         renderButtons();
+        return false;
+        }
       });
+// END CREATE BUTTONS----------------------------------------------------------------------
 
-      $(".buttons-area").on("click", ".new-gif", alertgiphyName);
+//MAIN FUNCTION
+$(".new-gif").on("click", function() {
 
-      renderButtons();
+  var activity = $(this).html();
+  console.log(activity);
 
-      $(".new-gif").on("click", function() {
-         var activity = $(this).attr("data-name");
-         var queryURL = "https://api.giphy.com/v1/gifs/search?q=" +
-         activity + "&api_key=dc6zaTOxFJmzC&limit=10";
+  var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + activity + "&api_key=dc6zaTOxFJmzC&limit=10";
 
-         $.ajax({
-          url:queryURL,
-          method: "GET"
-         })
-         .done(function(response) {
-          var results = response.data;
+     $.ajax({
+      url:queryURL,
+      method: "GET"
+     })
+     .done(function(response) {
+      var results = response.data;
+        console.log(results);
 
-          for(var i = 0; i <results.length; i++) {
-            var gifDiv = $("<div class='item'>");
+    $(".main-area").empty();
+       for ( var j=0; j < results.length; j++) {
+        var imageDiv = $("<div class='item'>");
+        var imageView = results[j].images.original.url;
+        var still = results[j].images.original_still.url;
+        var activityImage = $("<img>").attr("src", still).attr("data-animate", imageView).attr("data-still", still);
 
-            var rating = results[i].rating;
+        activityImage.attr("data-state", "still");
 
-            var p = $("<p>").text("Rating: " + rating);
+        $(".main-area").prepend(activityImage);
+        activityImage.on("click", playGif);
+        
+        // pulling the rating
+            var rating = results[j].rating;
+                // console.log(rating);
+            var displayRated = $("<p>").text("Rating: " + rating);
+            $(".main-area").prepend(displayRated);
+      
+       } //for loop
+       
+      }); // done response
 
-            var activityImage = $("<img>");
-            activityImage.attr("src", results[i].images.original.url);
+     function playGif() { 
+              var state = $(this).attr("data-state");
+              console.log(state);
+           if (state == "still"){
+               $(this).attr("src", $(this).data("animate"));
+               $(this).attr("data-state", "animate");
+           } else{
+               $(this).attr("src", $(this).data("still"));
+               $(this).attr("data-state", "still");
+              }
+          } //on click express
 
-            gifDiv.prepend(p);
-            gifDiv.prepend(activityImage);
+      })//END MAIN FUNCTION
 
-            $(".main-area").prepend(gifDiv);
-          }
-         });
-      });
+});//end //load js on html load
