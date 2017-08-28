@@ -1,0 +1,82 @@
+* {box-sizing: border-box;}
+* {margin:0;padding:0;}
+
+body {
+  background-color: #cc2424;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;	
+}
+
+.jumbotron {
+  background-color: transparent;
+}
+
+.jumbotron h1 {
+  color: #ffffff;
+  font-family: 'Baloo Bhaijaan', cursive;
+  font-size: 60px;
+}
+
+.buttons-area {
+  background-color: blue;
+  color: blue;
+  padding: 5px 5px;
+}
+
+.new-gif {
+  padding: 5px 5px;
+  font-size: 20px;
+}
+
+.item {
+  border-radius: 12px;
+  width: 400px;
+  height: 400px;
+}
+
+.main-area {
+  background-color: purple;
+}
+
+footer {
+    background-color: #961919;
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 15px;
+    color: #ffffff;
+    clear: both;
+}
+
+@media screen and (max-width: 980px) {
+   body {
+    background: #30c14f;
+   }
+    .container {
+        width: 970px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+   .container {
+    width: 768px;
+   }
+   body {
+    background: #30c14f;
+   }
+}
+
+@media screen and (max-width: 640px) {
+   .container {
+    width: 768px;
+   }
+   body {
+    background: #30c14f;
+   }
+}
