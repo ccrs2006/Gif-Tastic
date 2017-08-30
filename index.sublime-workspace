@@ -1,0 +1,948 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bu",
+				"buttons-area"
+			],
+			[
+				"g",
+				"new-gif"
+			],
+			[
+				"ci",
+				"childSnapshot"
+			],
+			[
+				"monthl",
+				"monthlyRate"
+			],
+			[
+				"star",
+				"startDate"
+			],
+			[
+				"data",
+				"dateAdded"
+			],
+			[
+				"Empl",
+				"employeeName"
+			],
+			[
+				"em",
+				"employeeName"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"ACT",
+				"activity"
+			],
+			[
+				"b",
+				"btn-primary"
+			],
+			[
+				"re",
+				"renderButtons"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"ne",
+				"new-gif"
+			],
+			[
+				"ac",
+				"activity"
+			],
+			[
+				"add",
+				"addedGiphy"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"butto",
+				"button"
+			],
+			[
+				"st",
+				"still"
+			],
+			[
+				"src",
+				"src"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"button",
+				"buttons-area"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"hi",
+				"highPrice"
+			],
+			[
+				"high",
+				"highBidder"
+			],
+			[
+				"hig",
+				"highBidder"
+			],
+			[
+				"err",
+				"errorObject"
+			],
+			[
+				"click",
+				"clickCounter"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"col",
+				"col-md-8"
+			],
+			[
+				"NE",
+				"newURL"
+			],
+			[
+				"end",
+				"endYear"
+			],
+			[
+				"new",
+				"newURL"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"QUERY",
+				"queryTerm"
+			],
+			[
+				"to",
+				"toDoTask"
+			],
+			[
+				"todo",
+				"toDoTask"
+			],
+			[
+				"age",
+				"age-display"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"Email",
+				"email-display"
+			],
+			[
+				"name",
+				"name-display"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bt",
+				"button"
+			],
+			[
+				"en",
+				"endYear"
+			],
+			[
+				"from",
+				"form-control"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"lo",
+				"lossSound"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"time",
+				"timeOutSound"
+			],
+			[
+				"A",
+				"Audio"
+			],
+			[
+				"If",
+				"IfNotCorrect"
+			],
+			[
+				"timer",
+				"timer-p"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"main",
+				"main-button-container"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"R",
+				"Republic"
+			],
+			[
+				"reset",
+				"resetGame"
+			],
+			[
+				"gene",
+				"generateLoss"
+			],
+			[
+				"corre",
+				"correctAnswers"
+			],
+			[
+				"start",
+				"start-button"
+			],
+			[
+				"in",
+				"initialScreen"
+			],
+			[
+				"ge",
+				"generateHTML"
+			],
+			[
+				"the",
+				"theClock"
+			],
+			[
+				"FUN",
+				"function"
+			],
+			[
+				"questi",
+				"questionCounter"
+			],
+			[
+				"m",
+				"mainArea"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"anim",
+				"animalImage"
+			],
+			[
+				"anima",
+				"animalDiv"
+			],
+			[
+				"animal",
+				"animalImage"
+			],
+			[
+				"data-",
+				"data-state"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"gis",
+				"gifs-appear-here"
+			],
+			[
+				"gif",
+				"gifDiv"
+			],
+			[
+				"gi",
+				"gifDiv"
+			],
+			[
+				"gifs",
+				"gifs-appear-here"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"mo",
+				"movieUrl"
+			],
+			[
+				"mov",
+				"movies-view"
+			],
+			[
+				"movi",
+				"movies-view"
+			],
+			[
+				"movies",
+				"movies-view"
+			],
+			[
+				"temp",
+				"temperature"
+			],
+			[
+				"h",
+				"humidity"
+			],
+			[
+				"W",
+				"weather"
+			],
+			[
+				"q",
+				"queryURL"
+			],
+			[
+				"aui",
+				"audioCharacter"
+			],
+			[
+				"audi",
+				"audioCharacter"
+			],
+			[
+				"audio",
+				"audioCharacter"
+			],
+			[
+				"lu",
+				"liuKang"
+			],
+			[
+				"defen",
+				"defender-character"
+			],
+			[
+				"defe",
+				"defenderSelected"
+			],
+			[
+				"inti",
+				"initializeDefender"
+			],
+			[
+				"charac",
+				"characterSelected"
+			],
+			[
+				"game",
+				"gameOver"
+			],
+			[
+				"de",
+				"defenderSelected"
+			],
+			[
+				"ch",
+				"characterSelected"
+			],
+			[
+				"a",
+				"available-character"
+			],
+			[
+				"chosen",
+				"chosenCharacter"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"li",
+				"liuKang"
+			],
+			[
+				"ra",
+				"raiden"
+			],
+			[
+				"clock",
+				"clockRunning"
+			],
+			[
+				"stop",
+				"stopwatch"
+			],
+			[
+				"out",
+				"outside"
+			],
+			[
+				"ran",
+				"randomNumber"
+			],
+			[
+				"random",
+				"randomNumber"
+			],
+			[
+				"liu",
+				"LiuKang"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"prim",
+				"primerElemento"
+			],
+			[
+				"docu",
+				"document"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"show",
+				"box-shadow"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"number",
+				"number2"
+			],
+			[
+				"num",
+				"number2"
+			],
+			[
+				"div",
+				"divide"
+			],
+			[
+				"bi",
+				"biggerWeb"
+			],
+			[
+				"score-b",
+				"score-board"
+			],
+			[
+				"r",
+				"right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pacage control ins",
+		"selected_items":
+		[
+			[
+				"pacage control ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Gif-Tastic",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Gif-Tastic/assets",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Gif-Tastic/assets/javascript"
+	],
+	"file_history":
+	[
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Gif-Tastic/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Gif-Tastic/assets/javascript/game.js",
+		"/C/Users/ccrs2/Desktop/gif-tastic copy/index.html",
+		"/C/Users/ccrs2/Desktop/gif-tastic copy/gif.js",
+		"/C/Users/ccrs2/Desktop/gif-tastic copy/style.css",
+		"/C/Users/ccrs2/Desktop/usmap.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-26-17/employeeDataManagement/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-26-17/employeeDataManagement/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-26-17/employeeDataManagement/javascript.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-26-17/02-recent-user-with-push.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Gif-Tastic/assets/css/style.css",
+		"/C/Users/ccrs2/Desktop/gif.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-19-17/pausing-gifs.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-19-17/button-triggered-ajax.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-17-17/log-movie-name.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Trivia-Game/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-17-17/movie-button-layout-harder.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-24-17/codersbay/codersbay.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-24-17/codersbay/logic.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-24-17/initialize firebase/instructor-do-clickbutton-fullcomments.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-24-17/codersbay/logicOption2.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-24-17/instructor-do-clickbutton-fireconsole.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-24-17/initialize firebase/logic.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-24-17/initialize firebase/logicOption2.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-24-17/initialize firebase/student-do-downbutton.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-24-17/instructor-do-clickbutton-nocomments.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-22-17/6-instructor-do-cookies-intro.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-22-17/4-student-do-signin-localstorage-solution.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-19-17/nyTimesFinalProject/java.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-19-17/nyTimesFinalProject/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-19-17/nyTimesFinalProject/javascript.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-19-17/nyTimesFinalProject/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Trivia-Game/assets/javascript/game.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-22-17/1-student-do-todolist-solution.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Trivia-Game/assets/css/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-22-17/2-student-do-signin-no-persistence-solution.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-22-17/2-student-do-signin-no-persistence.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-22-17/1-student-do-todolist.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Trivia-Game/assets/possibleHTML.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Responsive-Portfolio/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Trivia-game/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Trivia-game/assets/css/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Mortal-kombat/assets/css/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Trivia-game/assets/javascript/game.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-15-17/customer-object.html",
+		"/C/Users/ccrs2/Desktop/trivia game/assets/javascript/main.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-15-17/giphy-api.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-15-17/ajax-to-html.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Mortal-kombat/assets/javascript/game.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Trivia-Game/Trivia-game/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Trivia-Game/Trivia-game/css/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Trivia-Game/Trivia-game/javascript/game.js",
+		"/C/Users/ccrs2/Desktop/trivia game/index.html",
+		"/C/Users/ccrs2/Downloads/NYTimes/index.js",
+		"/C/Users/ccrs2/Downloads/NYTimes/style.css",
+		"/C/Users/ccrs2/Desktop/trivia game/assets/css/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Trivia-Game/assets/javascript/game - Copy.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-19-17/nytimes.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-19-17/cat-button.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-19-17/dynamic-elements.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/FalconMaster/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-17-17/movie-json-dump.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-17-17/bujumbura-harder.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-17-17/bands-in-town-unsolved.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-17-17/click-json.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-17-17/working-movie-app-harder.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-17-17/movie-button-layout-easier.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-15-17/multiple-ajax.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-17-17/bujumbura-easier.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-15-17/single-ajax.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Mortal-kombat/index.html",
+		"/C/Users/ccrs2/Desktop/canDelete.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-5-17/cobweb-starter.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-5-17/scope-quiz-unsolved.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-5-17/this-unsolved.html",
+		"/C/Users/ccrs2/Desktop/Mortal-kombat/index.html",
+		"/C/Users/ccrs2/Desktop/Mortal-kombat/assets/css/style.css",
+		"/C/Users/ccrs2/Desktop/Mortal-kombat/assets/javascript/game.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-10-17/simple-timer.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-10-17/stopwatch/stopwatch.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-10-17/this.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-10-17/interval-unsolved.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-10-17/coin-flip.html",
+		"/C/Users/ccrs2/Desktop/Mortal-kombat/assets/javascript/game - Copy.js",
+		"/C/Users/ccrs2/Desktop/Mortal-kombat/index HAND.html",
+		"/C/Users/ccrs2/Desktop/Mortal-kombat/index - Copy.html",
+		"/C/Users/ccrs2/Desktop/Mortal-kombat/index-1.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Mortal-kombat/index-1.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/week-4-game/assets/javascript/game.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/week-4-game/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/week-4-game/assets/css/style.css",
+		"/C/Users/ccrs2/Desktop/start-wars/assets/css/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/week-4-game/index-1.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-12-17/Unsolved/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-12-17/Unsolved/sortArray.js",
+		"/C/Users/ccrs2/Desktop/buzz.js",
+		"/C/Users/ccrs2/Desktop/buzz.html",
+		"/C/Users/ccrs2/Desktop/jj.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/week-4-game/index - Copy.html",
+		"/C/Users/ccrs2/Desktop/game/assets/javascript/game.js",
+		"/C/Users/ccrs2/Desktop/game/assets/css/reset.css",
+		"/C/Users/ccrs2/Desktop/game/assets/css/style.css",
+		"/C/Users/ccrs2/Desktop/game/composer.json",
+		"/C/Users/ccrs2/Desktop/game/index.html",
+		"/C/Users/ccrs2/Desktop/game/index.php",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-10-17/slideshow/slideshow.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-10-17/slideshow/slideshow.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-10-17/stopwatch.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-10-17/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/5_Activities/8-10-17/stopwatch.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/hangman/Hangman-Game/assets/javascript/game.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/hangman/Hangman-Game/index.html",
+		"/C/Users/ccrs2/Desktop/Emmet.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Responsive-Portfolio/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/hangman/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/hangman/assets/javascript/game.js",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/hangman/assets/css/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Bootstrap-Portfolio/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Bootstrap-Portfolio/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Bootstrap-Portfolio/portfolio.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Bootstrap-Portfolio/stylep.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Basic portfolio/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Basic portfolio/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Hangman game fail try/hangman2.html",
+		"/C/Users/ccrs2/Desktop/hangman/Hangman-master/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Hangman game/example2/index.html",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Hangman game/example2/style.css",
+		"/C/Users/ccrs2/Google Drive/DU_Boot_Camp/6_Homework-Instructions/Hangman game/example2/javascript.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name-display",
+			"name-input",
+			"h3",
+			"'",
+			"activity",
+			"renderButtons",
+			"giphy",
+			"movie",
+			"movies",
+			"summit",
+			"buttons-view",
+			"add-movie",
+			"movie-input",
+			"movie-form",
+			"5000",
+			"https://",
+			"twentyFive",
+			"25",
+			"http",
+			"htttps",
+			"htttp",
+			"correctAnswersArray",
+			"correctAnswerArray",
+			"answerArray",
+			"audio",
+			"lo",
+			"loose",
+			"losse",
+			"img",
+			"initialScreen",
+			"class=\"reset",
+			"class=\"reset\"",
+			"class=\"answer\"",
+			"class=\"initial-screen\"",
+			"class=\"initial-screen",
+			"class=\"initialScreen",
+			"if",
+			"initial",
+			"intial",
+			"initialScreen",
+			"25",
+			"twentyFive",
+			"IfNotAnswered",
+			"IfNotCorrect",
+			"IfCorrect",
+			"Clock",
+			"correctAnswersArray",
+			"Screen",
+			"initialScreen",
+			"IfNotAnswered",
+			"unansweredTally",
+			"incorrectTally",
+			"icorrect",
+			"icorrectTally",
+			"correctTally",
+			"clock",
+			"theClo",
+			"correctAnswers",
+			"correctAnswersA",
+			"correctAnswers",
+			"correctAnswersA",
+			"correctAnswers",
+			"twenty",
+			"thirty",
+			"30",
+			"initial",
+			"start",
+			"mainA",
+			"selected",
+			"png",
+			"x.pn",
+			"time",
+			"count",
+			"counter",
+			"time remaining",
+			"unanswer",
+			"fiftee",
+			"15",
+			"../",
+			"what is the world's longest river",
+			"fifteen",
+			"thirty",
+			"30",
+			"boton",
+			"for",
+			"fo",
+			"for  ",
+			"hide",
+			"'",
+			"HIDE",
+			"hide",
+			"restar",
+			"raiden",
+			"defender-character",
+			"enemy-character",
+			"character-image",
+			"Math",
+			"isAlphabet",
+			"lifes",
+			"image",
+			"printsLifesLeft",
+			"images",
+			"checkWordContains",
+			"checkRules",
+			"cheack rules",
+			"TriedValues",
+			"Gmae",
+			"lifes",
+			"lives",
+			"lifes",
+			"lives",
+			"<h1>",
+			"h1",
+			"porfolio",
+			"porfolio ",
+			"porfolio",
+			"console.log",
+			"\n    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"h4",
+			"\"",
+			"giphy",
+			"categories",
+			"btn-btn-primary",
+			"buttons-area",
+			"summit",
+			"search",
+			"200000000",
+			"//",
+			"twenty",
+			"20",
+			"30",
+			"Thirty",
+			"IfNotAnswered"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

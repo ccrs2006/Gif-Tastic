@@ -35,7 +35,7 @@ var categories = ["dreaming", "falling", "finger guns", "fighting", "smilling"];
 // END CREATE BUTTONS----------------------------------------------------------------------
 
 //MAIN FUNCTION
-$(".new-gif").on("click", function() {
+$(".buttons-area").on("click", ".new-gif", function() {
 
   var activity = $(this).html();
   console.log(activity);
